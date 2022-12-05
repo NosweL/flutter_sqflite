@@ -1,16 +1,29 @@
 # flutter_sqflite
+NAMA : WELSON MARIO NAIBAHO <br>
+KELAS : TI 3C / 23 <br>
+NIM : 2041720253 <br>
 
-A new Flutter project.
+Screenshoot
+1. Data Empty
 
-## Getting Started
+![ss 1](https://user-images.githubusercontent.com/74538482/205666751-77133bd5-b28a-4dea-bf70-7e908562c95a.jpg)
 
-This project is a starting point for a Flutter application.
+2. Input data (Glitchpop Knife)
 
-A few resources to get you started if this is your first Flutter project:
+![ss 2](https://user-images.githubusercontent.com/74538482/205666986-b5fd371e-dfb1-4c49-a600-d5032fcc52df.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Hasil Input data (Glitchpop Knife)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ss 3](https://user-images.githubusercontent.com/74538482/205667156-145c63e2-5eba-41d9-819e-65878b5d7111.jpg)
+
+4. Edit Data ( Before Harga = 400000 | After Harga = 500000 )
+
+![ss 4](https://user-images.githubusercontent.com/74538482/205667280-f1e1a5bf-84f6-44be-b3fe-ae5714ce6384.jpg)
+
+5. Hasil Perubahan Edit data
+
+![ss 5](https://user-images.githubusercontent.com/74538482/205667668-181615f0-c4f7-414c-9e9b-f26aab9d2be5.jpg)
+
+6. Delete / Hapus Data Glitchpop Knife
+
+![ss 6](https://user-images.githubusercontent.com/74538482/205667764-51d82192-d180-4f50-84a1-f9ada66beb57.jpg)
